@@ -1,16 +1,30 @@
-# supabase_hackaton
+# Stories With Supabase
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+Stories app lets you create shared stories with your friends. With Stories app you can write stories together in realtime.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I used supabase as database and supabase realtime for realtime story updating,
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt Text](https://i.hizliresim.com/ofudzh1.gif)
+
+Download:
+[Mega.nz](https://mega.nz/file/tVUEALgR#42lgdHP5xDfkOPPPyrkncAl2zl3f7M5aTs1BMGwtvBY)
+
+Video:
+[Mega.nz](https://mega.nz/file/EF803BQL#VONgxiRsoxPyUpn6-C5ZRVNtpWCYHzs8M0g5niEABY0)
+
+
+Demo Users:
+username-password
+username2-pass2
+username34-pass34
+username35-pass35
+username36-pass36
+username37-pass37
+
+
+Enjoy!
+
